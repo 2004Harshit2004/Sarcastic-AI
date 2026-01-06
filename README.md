@@ -23,6 +23,7 @@ It is built on top of Microsoft's **Phi-3 Mini (3.8B)**, fine-tuned using **Unsl
 
 You can try the live application here:
  **[Launch Sarcastic AI on Hugging Face](https://hg-goswami-sarcastic-ai-bb50cff.hf.space/?__theme=system&deep_link=M0LWEuaiXlo)**
+ 
  **[See training loss of model](https://api.wandb.ai/links/agentic_error/og6jqbf2)**
 
 *(Note: If the model is "cold," it may take 30-40 seconds to wake up for the first request.)*
